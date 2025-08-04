@@ -50,15 +50,11 @@ Applications include:
 
 ##  Progress Tracking
 
-See `project_log.md` for a running weekly log of:
-- What was read
-- What was run
-- What worked / broke
-- Next steps
+See `project_log.md` for a running  log of the different versions and their comparisons
 
 ---
 
 ## 📫 Contact
 
 Open to collaboration, discussion, or feedback.  
-→ [Add email, LinkedIn, or Notion link here]
+→ Linkedin.com/paritoshwalimbe
